@@ -1,0 +1,11 @@
+mail keylogger v0.1.0
+
+hello and thank you for using my keylogger, I am Crun, a great programmer but a beginner at making malwares. Hope my work may help you, however your intentions can be.
+
+**No stealing of data, you can easily ask experts in coding to prove it to you**
+
+
+Steps to use it : 
+1- Open [informations.txt]
+2- Put in this order **it is important** the following informations **Make sure every information has its own line, otherwise it won't work** : -Your email adress -Your email password -Your smtp link (google : smtp+email website) -Your smtp port (google : email website+smtp+port) -The time interval of mails (in seconds)
+3-
