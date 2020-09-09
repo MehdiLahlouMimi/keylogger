@@ -18,8 +18,8 @@ with open("informations.txt") as file :        #reading the data from the info f
 	adress = lines[0]
 	password = lines[1]
 	smtp_host = lines[2]
-	smtp_port = lines[3]
-	interval = lines[4]
+	smtp_port = int(lines[3])
+	interval = int(lines[4])
 
 
 
